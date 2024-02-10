@@ -1,2 +1,2 @@
 # Basic-program-Python
-Various basic program using python language.
+Various basic program using python language
