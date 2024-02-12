@@ -1,4 +1,5 @@
-# Python program to calculate area of Triangle, Square & Rectangle
+# Python program to calculate area of Triangle, Square & Rectangle.
+
 
 print("----Input Values For Triangle----")
 h=float(input("Enter Height of triangle= "))
